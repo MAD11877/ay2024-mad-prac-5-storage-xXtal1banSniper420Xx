@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "920578756259",
+    "firebase_url": "https://prac5-658b1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "prac5-658b1",
+    "storage_bucket": "prac5-658b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920578756259:android:0675101ccaa373db0c3916",
+        "android_client_info": {
+          "package_name": "sg.edu.np.mad.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlKVUy6gYk0y-Lop8Wa9eXjQaaZu79JJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
